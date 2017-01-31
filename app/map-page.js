@@ -8,7 +8,7 @@ let obecto = {
     city: "Sofia",
     latitude: 42.66251948309662,
     longitude: 23.31786286085844,
-    radius: 11
+    radius: 10
 };
 
 function onMapReady(args) {
